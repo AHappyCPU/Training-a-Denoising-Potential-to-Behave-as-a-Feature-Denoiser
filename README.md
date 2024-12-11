@@ -107,27 +107,13 @@ The project provides visualization capabilities for model interpretation:
 - Matplotlib
 - scikit-learn
 
-# Usage 
+# Contributions
 
-from model import FullArchitecture
+Theoretical/Model work by Dustin Mixon and Brantley Vose. 
 
-model = FullArchitecture(
-    feature_dim=784,
-    k=20,
-    n_iterations=30
-)
+Implementation/Visualization/Experimentation by Daniel Tcheurekdjian. 
 
-train_model(
-    model=model,
-    train_loader=train_loader,
-    val_loader=test_loader,
-    epochs=5,
-    device=device,
-    lr=1e-3
-)
+# Contact 
 
-
-
-
-
+Daniel Tcheurekdjian: @AHappyCPU/tcheurekdjian.1@osu.edu
 
