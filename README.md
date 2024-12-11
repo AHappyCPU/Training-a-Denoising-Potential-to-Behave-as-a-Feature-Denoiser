@@ -109,7 +109,7 @@ The project provides visualization capabilities for model interpretation:
 
 # Contributions
 
-Theoretical/Model work by Dustin Mixon and Brantley Vose. 
+Theoretical Development/Model Development by Dustin Mixon and Brantley Vose. 
 
 Implementation/Visualization/Experimentation by Daniel Tcheurekdjian. 
 
