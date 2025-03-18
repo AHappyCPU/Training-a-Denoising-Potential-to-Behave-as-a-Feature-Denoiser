@@ -106,11 +106,6 @@ The project provides visualization capabilities for model interpretation:
 - NumPy
 - Matplotlib
 - scikit-learn
-
-# Contributions
-
-Theory: Dustin Mixon and Brantley Vose. Implementations: Daniel Tcheurekdjian. 
-
 # Contact 
 
 Daniel Tcheurekdjian: @AHappyCPU/tcheurekdjian.1@osu.edu
